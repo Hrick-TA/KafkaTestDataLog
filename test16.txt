@@ -1,0 +1,22 @@
+{
+	"dimension": {
+		"agentId": "testuser07",
+		"nrReasonCode": "57"
+	},
+	"realtimeData": {
+		"supervisorLastName": "User07",
+		"agentId": "testuser07",
+		"nrReasonCodeName": "DEFAULT",
+		"agentDisplayName": "test user07",
+		"supervisorFirstName": "Test",
+		"agentReady":"5",
+		"agentNotReady":"5",
+		"nrReasonCodeEffectiveDT": "00000001635318376438",
+		"nrReasonCode": "0",
+		"nrReasonCodeOccurrence": "3",
+		"agentNRReasonCodeTimeDuration": "1717"
+	},
+	"pumpup": true,
+	"pumpupComplete": false,
+	"heartbeat": false
+}
