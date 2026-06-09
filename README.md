@@ -1,3 +1,3 @@
 # KafkaTestDataLog
 
-this is the first change.
+Kafka KT has been given to hariharan, 
